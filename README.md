@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning UX/UI
+- 🌱 I’m currently learning C# data structures and algorithms
 - 👯 I’m looking to collaborate on passion projects
-- 💬 Ask me about my mtg collection
 - 📫 How to reach me: leclercsoftware@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a beautiful cat named Momo
 
-- 🤔To hear more about me head to LeclercSoftware.ca
+- 🤔To read more about me head to LeclercSoftware.ca
 
 <!--
 **LeclercSoftware/LeclercSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
